@@ -3,3 +3,14 @@
    Telegramm - +375291776195
 3. Information about yourself - I want to try myself as a programmer. The last 2 attempts were unsuccessful, I hope from the 3rd time I will be able to achieve my goals. Or at least get close to them.
 4. My skils - HTML\CSS\JS low lavel.
+5. Code -
+
+```javascript
+var isAnagram = function (test, original) {
+  let firstWord = test.toLowerCase().split('').sort().join('');
+  let secondWord = original.toLowerCase().split('').sort().join('');
+  return firstWord === secondWord ? true : false;
+};
+```
+
+6. Education - Higher pedagogical education.
