@@ -14,3 +14,4 @@ var isAnagram = function (test, original) {
 ```
 
 6. Education - Higher pedagogical education.
+7. English language - Basic.
